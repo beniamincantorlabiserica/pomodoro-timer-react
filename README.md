@@ -25,7 +25,7 @@ A beautiful, feature-rich Pomodoro Timer application built with React, TailwindC
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/beniamincantorlabiserica/pomodoro-timer.git
+   git clone https://github.com/beniamincantorlabiserica/pomodoro-timer-react.git
    cd pomodoro-timer
    ```
 
